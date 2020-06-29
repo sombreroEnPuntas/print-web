@@ -17,7 +17,7 @@ const getPage = async (pageURL, number) => {
       margin: { top: '60px', bottom: '60px', right: '30px', left: '30px' },
       format: 'A4',
       printBackground: false,
-      scale: 1,
+      scale: 0.6,
     })
 
     await browser.close()
