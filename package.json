@@ -8,7 +8,7 @@
   "private": false,
   "repository": "https://github.com/sombreroEnPuntas/print-web",
   "dependencies": {
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "pdfjs": "^2.3.9",
     "puppeteer": "^4.0.1"
   },
